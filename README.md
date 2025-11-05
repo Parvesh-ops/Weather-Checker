@@ -6,8 +6,7 @@ A simple weather application built with **React**, **Axios**, and **Vite**, usin
 
 ## **Demo**
 
-![Weather App Screenshot](screenshot.png)  
-*(Optional: Add your own screenshot)*
+![image alt](https://github.com/Parvesh-ops/Weather-Checker/blob/0b7c1606c12fd18512411fce561c975ac5be0a5d/Screenshot-264%20(1).jpg)
 
 ---
 
