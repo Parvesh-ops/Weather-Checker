@@ -30,6 +30,5 @@ A simple weather application built with **React**, **Axios**, and **Vite**, usin
 - Vite
 - Axios
 - OpenWeatherMap API
-- JavaScript, HTML, CSS
 
 ---
